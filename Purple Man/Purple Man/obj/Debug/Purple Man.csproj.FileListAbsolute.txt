@@ -1,0 +1,15 @@
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\bin\Debug\Purple Man.exe.config
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\bin\Debug\Purple Man.exe
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\bin\Debug\Purple Man.pdb
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\bin\Debug\FastColoredTextBox.dll
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\bin\Debug\FlatUI.dll
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\bin\Debug\WeAreDevs_API.dll
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\obj\Debug\Purple Man.csprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\obj\Debug\Purple_Man.Form1.resources
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\obj\Debug\Purple_Man.Properties.Resources.resources
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\obj\Debug\Purple Man.csproj.GenerateResource.cache
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\obj\Debug\Purple Man.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\obj\Debug\Purple Man.csproj.CopyComplete
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\obj\Debug\Purple Man.exe
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\obj\Debug\Purple Man.pdb
+C:\Users\USER\Source\Repos\Purple Man\Purple Man\obj\Debug\Purple_Man.Form3.resources
